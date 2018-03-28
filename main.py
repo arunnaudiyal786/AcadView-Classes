@@ -12,7 +12,7 @@ friends_age = []
 friends_rating = []
 friends_is_online = []
 
-
+## Added some comment ###
 def add_friend() :
     new_friend = {
         'name':"",
